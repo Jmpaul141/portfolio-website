@@ -1,4 +1,7 @@
-portfolio-website
-├── index.html
-├── style.css
-├── script.js
+portfolio-website/
+│── index.html
+│── style.css
+│── script.js
+│── images/
+│── assets/
+└── README.md
